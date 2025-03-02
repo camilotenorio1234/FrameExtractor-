@@ -33,7 +33,7 @@ FrameExtractor/
 ## 📌 1. Clonar el repositorio
 
 ```sh
-git clone https://github.com/tu_usuario/FrameExtractor.git
+git clone [https://github.com/tu_usuario/FrameExtractor.git](https://github.com/camilotenorio1234/FrameExtractor-/tree/main)
 cd FrameExtractor
 ```
 
