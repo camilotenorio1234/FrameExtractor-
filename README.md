@@ -1,3 +1,8 @@
+# FrameExtractor 🎥🖼️
+
+FrameExtractor is a simple and efficient tool for extracting frames from videos using Python and OpenCV. It allows capturing and storing images from a video in a specific folder, making it useful for video analysis, machine learning, and image processing.
+
+This README is available in **Spanish** and **English**. Expand the corresponding section to view the documentation in your preferred language.
 
 <details>
   <summary>FrameExtractor 🎥🖼️  English</summary>
@@ -119,6 +124,14 @@ src/test_frame_extractor.py::test_cleanup PASSED                                
 ```
 
 </details>
+
+
+---
+
+FrameExtractor es una herramienta simple y eficiente para extraer frames de videos usando Python y OpenCV. Permite capturar y almacenar imágenes de un video en una carpeta específica, facilitando el análisis de video, aprendizaje automático y procesamiento de imágenes. 
+
+Este README está disponible en **español** e **inglés**. Despliega la sección correspondiente para ver la documentación en tu idioma.
+
 
 <details>
   <summary>FrameExtractor 🎥🖼️  Español</summary>
